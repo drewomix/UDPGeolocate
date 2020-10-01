@@ -74,4 +74,3 @@ The minimum amount of time in seconds that UDPGeolocate should take between chec
 ## Contributions
 For debugging, just set the logger level to logging.DEBUG in the script on line 20. This will then output internal events of the script. They might not be interesting to the normal user, but if you feel like fiddling with the code or debugging if an error occurs, they can be quite helpful.
 
-In case of bugs or suggestions, please open up an issue in the issue tracker, or email me: <algb12.19@gmail.com>
